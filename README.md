@@ -1,2 +1,2 @@
-# yapayzeka-arkadas
-GPT-3 kullanımı
+# yapayknk
+ yapay arkadaş
